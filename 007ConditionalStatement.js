@@ -4,8 +4,7 @@ let num2 = 4
 let result = num2 < num1
 
 if (result)
-
-console.log("num2 is less than num1");
+    console.log("num2 is less than num1");
 
 console.log("Byee.....");
 
@@ -22,3 +21,4 @@ else if (num4 < num5 && num4 > num3)
 
 else 
     console.log("num5 is greatest")
+    console.log("Byee.....");
