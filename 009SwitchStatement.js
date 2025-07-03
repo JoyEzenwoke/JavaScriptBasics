@@ -23,7 +23,6 @@ switch (Day){
         break;
 
     case "Saturday":
-        console.log("8am");
 
     case "Sunday":
         console.log("8am");
